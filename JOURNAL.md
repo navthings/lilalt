@@ -1,6 +1,6 @@
 # lilalt journal
 
-## nov 4 · ~1.3 hrs
+## nov 4 · ~2.5 hrs
 
 schematic from this morning
 
