@@ -1,6 +1,6 @@
 # lilalt journal
 
-## nov 4 · ~2.5 hrs
+## nov 4 · ~5.5 hrs
 
 schematic from this morning
 
@@ -102,4 +102,4 @@ ground pour. it was on the front, not the back
 
 ![](journal/25.png)
 
-rest was claude: autorouted it with freerouting, moved c1/c2 next to the chip, mounting holes, pin labels, my n@ + made with <3, part numbers, bom
+autorouted it with freerouting, asked claude to debug so it doesnt explode then moved c1/c2 next to the chip, mounting holes, pin labels, my n@ + made with <3. bom.csv all claude tho (if this is a issue tell me and ill redo bom.csv myself
