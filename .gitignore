@@ -1,0 +1,10 @@
+*.lck
+*-backups/
+_restore_backup*/
+.history/
+*.kicad_prl
+*.before-autoroute
+fp-info-cache
+preview/
+flag-standalone.svg
+.DS_Store
