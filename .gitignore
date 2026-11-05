@@ -1,0 +1,8 @@
+*.lck
+*-backups/
+_restore_backup*/
+.history/
+*.kicad_prl
+fp-info-cache
+flag-standalone.svg
+.DS_Store
