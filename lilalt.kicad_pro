@@ -257,7 +257,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Untitled.kicad_pro",
+    "filename": "lilalt.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -425,8 +425,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Untitled.kicad_sch",
-        "name": "Untitled",
+        "filename": "lilalt.kicad_sch",
+        "name": "lilalt",
         "uuid": "cf947f49-ae72-4e62-9a04-b05fa9e8244e"
       }
     ],
@@ -436,7 +436,7 @@
   "sheets": [
     [
       "cf947f49-ae72-4e62-9a04-b05fa9e8244e",
-      "Untitled"
+      "lilalt"
     ]
   ],
   "text_variables": {},

@@ -6,3 +6,4 @@ _restore_backup*/
 fp-info-cache
 flag-standalone.svg
 .DS_Store
+.preview/
