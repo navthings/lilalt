@@ -163,3 +163,15 @@ routed. ground pour on both sides, 0 drc errors
 ![](journal/39.png)
 
 bom.csv exported from kicad with digikey part numbers for everything
+
+## nov 8 · ~0.5 hrs
+
+reviewer said a cr2032 can only give ~3mA and the buzzer wants ~35mA. it would brown out the chip mid beep
+
+swapped it for a passive piezo (tdk ps1240p02bt) wired straight across pa3 and pa7. the pins take turns so it gets a 6v swing off a 3v cell. no transistor, no diode, no base resistors
+
+![](journal/40.png)
+
+deleted q1 d1 r1 r2, piezo goes where the old buzzer was, rerouted by hand. pa3 sneaks under the sda pin to get across. 3v3 to the sensor used to run through the old diode so it got a new trace down the edge. drc clean
+
+bom re-exported from kicad
